@@ -87,7 +87,7 @@ console.log(newJson)
 
 | **Commits** | **Contributor** | 
 | --- | --- |
-| 3 | [Black-Hole](https://github.com/BlackHole1) |
+| 5 | [Black-Hole](https://github.com/BlackHole1) |
 
 ## Author
 
