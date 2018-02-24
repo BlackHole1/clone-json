@@ -1,0 +1,27 @@
+{
+  "name": "clone-json",
+  "version": "1.0.0",
+  "description": "deep copy json",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "homepage": "https://github.com/BlackHole1/clone-json#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BlackHole1/clone-json.git"
+  },
+  "keywords": [
+    "json",
+    "copy-json",
+    "deep-copy-json"
+  ],
+  "author": "Black-Hole <158blackhole@gmail.com> (http://bugs.cc/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlackHole1/clone-json/issues"
+  },
+  "dependencies": {
+    "mocha": "^5.0.1"
+  }
+}
