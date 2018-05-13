@@ -1,6 +1,10 @@
 # clone-json
+[![Node Version](https://img.shields.io/badge/node.js-%3E=_6-green.svg)](https://travis-ci.org/BlackHole1/clone-json)
+[![Build Status](https://travis-ci.org/BlackHole1/clone-json.svg?branch=master)](https://travis-ci.org/BlackHole1/clone-json)
+[![Coverage Status](https://coveralls.io/repos/github/BlackHole1/clone-json/badge.svg?branch=master)](https://coveralls.io/github/BlackHole1/clone-json?branch=master)
+[![Npm Downlaod](https://img.shields.io/npm/dy/clone-json.svg)](https://www.npmjs.com/package/clone-json)
 
-[![npm](https://img.shields.io/npm/dy/clone-json.svg)](https://www.npmjs.com/package/clone-json) [![npm](https://img.shields.io/github/issues/BlackHole1/clone-json.svg)](https://github.com/BlackHole1/clone-json) [![npm](https://img.shields.io/github/forks/BlackHole1/clone-json.svg)](https://github.com/BlackHole1/clone-json) [![npm](https://img.shields.io/github/stars/BlackHole1/clone-json.svg)](https://github.com/BlackHole1/clone-json) [![npm](https://img.shields.io/badge/license-MIT-blue.svg)]
+[![NPM](https://nodei.co/npm/clone-json.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/clone-json/)
 
 ## install
 
